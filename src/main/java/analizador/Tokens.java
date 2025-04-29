@@ -1,0 +1,23 @@
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+package analizador;
+
+
+public enum Tokens {
+  TIPO_INT, TIPO_FLOAT, TIPO_CHAR, TIPO_STRING, TIPO_BOOL,
+  LITERAL_INT, LITERAL_FLOAT, LITERAL_CHAR, LITERAL_STRING, LITERAL_BOOL,
+  IDENTIFICADOR,
+  ARREGLO, NULL, LUNA, SOL,
+  VOID, MAIN, DEF,
+  IF, ELSE, ELIF, WHILE, DO, FOR, SWITCH, CASE, DEFAULT, BREAK, RETURN,
+  SYSREAD, SYSPRINT,
+  OPERADOR_LOG, NEGACION, OPERADOR_REL,
+  INCREMENTO, DECREMENTO, POT, SUMA, RESTA, MULT, DIVENTERA, MOD,
+  IGUAL, COMA, DOS_PUNTOS, PUNTO,
+  PARENTESIS_IZQ, PARENTESIS_DER, LLAVE_ABRE, LLAVE_CIERRA,
+  BARRA_ARREGLO, DELIMITADOR,
+  ERROR
+}

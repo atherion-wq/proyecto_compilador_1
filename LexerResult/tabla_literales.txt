@@ -1,0 +1,12 @@
+TABLA DE LITERALES
+Literal: 1	Tipo: LITERAL_INT, Línea: 4
+Literal: 10	Tipo: LITERAL_INT, Línea: 9
+Literal: 3.14	Tipo: LITERAL_FLOAT, Línea: 10
+Literal: 'a'	Tipo: LITERAL_CHAR, Línea: 12
+Literal: "Hola mundo"	Tipo: LITERAL_STRING, Línea: 13
+Literal: 2	Tipo: LITERAL_INT, Línea: 14
+Literal: 3	Tipo: LITERAL_INT, Línea: 14
+Literal: 5	Tipo: LITERAL_INT, Línea: 19
+Literal: "x es mayor que 5"	Tipo: LITERAL_STRING, Línea: 20
+Literal: "x no es mayor que 5"	Tipo: LITERAL_STRING, Línea: 22
+Literal: 0	Tipo: LITERAL_INT, Línea: 25
